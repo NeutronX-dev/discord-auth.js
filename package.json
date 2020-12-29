@@ -1,0 +1,19 @@
+{
+  "name": "discord-auth.js",
+  "version": "1.0.0",
+  "description": "Discord OAuth2 Made Simple.",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "homepage": "https://github.com/NeutronX-dev/discord-auth.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NeutronX-dev/discord-auth.js.git"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "keywords": ["discord", "oauth2", "login", "express", "discord login", "discord login express", "disco-auth", "discord-auth", "discord auth"],
+  "author": "NeutronX",
+  "license": "ISC"
+}
